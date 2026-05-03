@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ChoiGyber.github.io/snippets-aa2j9w/sitemap.xml
